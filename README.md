@@ -12,11 +12,11 @@ GUI for zapret (Windows)
 ## 📝 Описание / Description
 **RU:**  
 zgui — локальное WPF-приложение для удобного управления zapret.  
-Проект использует форк zapret от **Flowseal**.  
+Проект использует форк zapret от **Flowseal**. Проект zgui находится на стадии бета-тестирования. Возможны ошибки.
 
 **EN:**  
 zgui is a local WPF application for easy management of zapret.  
-This project uses a fork of zapret by **Flowseal**.
+This project uses a fork of zapret by **Flowseal**. The zgui project is in beta testing. Bugs are possible.
 
 ---
 
